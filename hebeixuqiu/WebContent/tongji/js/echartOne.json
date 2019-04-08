@@ -1,0 +1,43 @@
+﻿{
+	"list1": [
+		{
+			"name": "物理",
+			"value": 3
+		}, {
+			"name": "外语",
+			"value": 4
+		}, {
+			"name": "生物",
+			"value": 4
+		}, {
+			"name": "金融",
+			"value": 1
+		}, {
+			"name": "文史",
+			"value": 1
+		}
+
+
+	],
+	"list2": [
+		{
+			"name": "房地产",
+			"value": 1
+		}, {
+			"name": "医疗",
+			"value": 3
+		}, {
+			"name": "教育",
+			"value": 3
+		}, {
+			"name": "餐饮住宿",
+			"value": 4
+		}, {
+			"name": "金融",
+			"value": 2
+		}, {
+			"name": "其他",
+			"value": 2
+		}
+	]
+}

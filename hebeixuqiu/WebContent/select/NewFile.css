@@ -1,0 +1,40 @@
+<style type="text/css">
+#mk2 {
+margin:20px 0 0 0; 
+padding:0; 
+width:401px; 
+height:auto; 
+background:#fc6 url(grid.gif) repeat-y left bottom; 
+position:relative;}
+#mk2 dt {
+background:#fff; 
+text-align:center; 
+font-size:1.5em; 
+padding:2px 0;}
+#mk2 dd {
+margin:0; 
+display:block; 
+width:100%; 
+height:20px; 
+background:#f80; 
+border-bottom:1px solid #000; 
+border-top:1px solid #fff;}
+* html #mk2 dd {
+height:21px; he\ight:20px;}
+#mk2 dd b {
+position:absolute; 
+text-align:left;
+right:-111px; 
+display:block; 
+background:#fff; 
+padding-right:2px; 
+height:2em; 
+line-height:2em; 
+width:100px;} 
+#mk2 dd.p670 {width:67%;}
+#mk2 dd.p67 {width:6.7%;}
+#mk2 dd.p14 {width:1.4%;}
+#mk2 dd.p197 {width:19.7%;}
+#mk2 dd.p26 {width:2.6%;}
+#mk2 dd.p11 {width:1.1%;}
+</style>

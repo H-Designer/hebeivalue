@@ -1,0 +1,10 @@
+@charset "UTF-8";
+.styleselect
+{
+	width: 16%;
+	height: 25%;
+	background-color: #E4EEF9;
+	float: left;
+	margin: 0 auto;
+	display: inline;
+}
